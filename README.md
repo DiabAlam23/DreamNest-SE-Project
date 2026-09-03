@@ -4,7 +4,7 @@ Software Engineering Project
 
 ## Project Status
 
-Development Update 1 - 30%
+
 
 ## Team
 
